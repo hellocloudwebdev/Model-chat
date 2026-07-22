@@ -38,7 +38,7 @@
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/Model-chat.git
+git clone https://github.com/hellocloudwebdev//Model-chat.git
 cd Model-chat
 
 # Install dependencies
